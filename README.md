@@ -140,7 +140,7 @@ Visualization provides an intuitive understanding of model performance and prede
 
 ---
 
-## 10 recursive Multi-step Forecasting
+## 10. Recursive Multi-step Forecasting
 
 To predict multiple future steps, a recursive forecasting approach is applied.
 Concept:

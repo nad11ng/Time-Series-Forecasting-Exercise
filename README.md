@@ -1,7 +1,7 @@
 # Time Series Forecasting Exercise with CO2 Dataset
 
 ## 1. Introduction
-Time Series Forecasting represents a dundamental problem in data science, where future values are predict based on historical observations. In this project, a forcasting model is developed to estimate CO2 Levels using time-dependent data.  
+Time Series Forecasting represents a fundamental problem in data science, where future values are predict based on historical observations. In this project, a forcasting model is developed to estimate CO2 Levels using time-dependent data.  
 
 The dataset consists of weekly CO2 measurements collected from 1958 to 2001 and contains missing values, which require appropriate preprocessing before model training.  
 
